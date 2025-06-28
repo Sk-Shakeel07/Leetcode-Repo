@@ -7,7 +7,7 @@ Here, you'll find my journey through solving algorithmic challenges across data 
 
 ## 📌 About This Repository
 
-This repository is a growing collection of **efficient and well-structured solutions** to LeetCode problems, written mainly in **Java** (and possibly others in the future!). Each problem is solved with an emphasis on:
+This repository is a growing collection of **efficient and well-structured solutions** to LeetCode problems, written mainly in ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (and possibly others in the future!). Each problem is solved with an emphasis on:
 
 - Clean code
 - Optimal complexity
@@ -16,28 +16,17 @@ This repository is a growing collection of **efficient and well-structured solut
 
 ---
 
-## 📂 Directory Structure
-
 LeetCode-Solutions/
-│
-├── Easy/
-│ ├── [ProblemName].java
-│ └── ...
-│
-├── Medium/
-│ ├── [ProblemName].java
-│ └── ...
-│
-├── Hard/
-│ ├── [ProblemName].java
-│ └── ...
-│
-├── README.md
-└── ...
 
-yaml
-Copy
-Edit
+- 📁 Easy/ – LeetCode problems labeled as Easy
+
+- 📁 Medium/ – Solutions for Medium difficulty
+- 📁 Hard/ – Solutions for Hard difficulty
+
+- 📄 README.md – The file you're reading now
+
+- 📄 .gitignore – Common ignored files and folders
+
 
 Each file includes:
 - ✅ Problem statement (brief)
@@ -90,8 +79,10 @@ If you're looking to add new solutions:
 
 If you have suggestions, doubts, or want to discuss approaches:
 
-- 📬 Email: your.email@example.com *(or GitHub Discussions/Issues)*
-- 🌐 LeetCode Profile: [Shakeel Akhtar](https://leetcode.com/yourprofile) *(update link)*
+- 📬 Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:skkafilakhtar786@gmail.com)
+
+- 🌐 LeetCode Profile: - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/HIQG7JObbt/)
+
 
 ---
 
